@@ -25,11 +25,11 @@
                             "src/assets"
                         ],
                         "styles": [
-                            "src/styles.css",
-                            "bootstrap.css"
+                            "src/styles.css"
+
                         ],
                         "scripts": [
-                            "bootstrap.js"
+
                         ]
                     },
                     "configurations": {
